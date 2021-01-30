@@ -16,4 +16,4 @@ The inputs required are:
  A Results.pdf has also been provided to show the possible outputs from the code , along with a bar plot for fraction of different types of pixels
 
 
-By Sayantan Mondal
+Author: Sayantan Mondal
