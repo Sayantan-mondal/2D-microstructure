@@ -14,3 +14,6 @@ The inputs required are:
  At the end of simulation the code gives the number of pixels inside the gains, at the grain boundary and at the triple points.
  
  A Results.pdf has also been provided to show the possible outputs from the code , along with a bar plot for fraction of different types of pixels
+
+
+By Sayantan Mondal
